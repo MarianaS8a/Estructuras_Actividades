@@ -1,10 +1,10 @@
 #Análisis de complejidad
 
 **Insertion Sort**
-InsertionSort es el algoritmo de ordenación más rápido de los vistos en clase para los arreglos que están casi ordenados y son pequeños. Como los datos originales del archivo de texto están un poco ordenados, se utilizó este algoritmo. Su complejidad es O(n^2) en el peor casos porque contiene dos ciclos for. Sin embargo, en el mejor de los casos puede llegar a ser nlogn.
+InsertionSort es el algoritmo de ordenación más rápido de los vistos en clase para los arreglos que están casi ordenados y son pequeños. Como los datos originales del archivo de texto están un poco ordenados, se utilizó este algoritmo. Su complejidad es O(n^2) en el peor casos porque contiene dos ciclos for que recorren n veces cada uno de los elementos. Sin embargo, entre más ordenado esté el arreglo la complejidad es menor porque puede saltarse pasos.
 
 **Busqueda Binaria**
-El algorítmo se utiliza para listas ordenadas. Como el algoritmo reduce el área de búsqueda a medida que se ejecuta, su complejidad es de O(logn). No se tiene que recorrer todo el vector para encontrar un elemento.
+El algorítmo se utiliza para listas ordenadas. Como el algoritmo reduce el área de búsqueda a la mitad a medida que se ejecuta, su complejidad es de O(logn). No se tiene que recorrer todo el vector para encontrar un elemento.
 
 #Casos de prueba
 
