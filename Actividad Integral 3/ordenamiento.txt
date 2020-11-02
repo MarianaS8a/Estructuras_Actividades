@@ -1,0 +1,40 @@
+999999_hola
+160749 Ciudad_de_Mexico
+97784 Estado_de_México
+52915 Nuevo_Leon
+35547 Puebla
+48669 Guanajuato
+36965 Veracruz
+24837 Michoacán
+6885 Morelos
+21191 Oaxaca
+33803 Coahuila
+28598 San_Luis_Potosi
+38083 Sonora
+34082 Jalisco
+34425 Tabasco
+21513 Yucatán
+22170 Loreto
+6540 Colima
+6707 Nayarit
+7529 Chiapas
+15703 Hidalgo
+13826 Durango
+13729 Queretaro
+12539 Baja_California_Sur
+13432 Quintana_Roo
+21818 Sinaloa
+23018 Baja_California
+18079 Chihuahua
+32276 Tamaulipas
+8458 Tlaxcala
+22124 Guerrero
+6477 Campeche
+11008 Zacatecas
+9502 Aguascalientes
+
+
+
+
+
+
